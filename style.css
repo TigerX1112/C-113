@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+}
+h1{
+    font-size: 40px !important;
+}
+canvas{
+    border: solid black 2px;
+}
+b{
+    color: rgb(60, 13, 13);
+}
